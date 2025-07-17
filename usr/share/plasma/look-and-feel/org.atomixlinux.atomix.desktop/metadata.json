@@ -1,0 +1,17 @@
+{
+    "KPackageStructure": "Plasma/LookAndFeel",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "mikolajziolkowski504@gmail.com",
+                "Name": "Atomix Linux Team"
+            }
+        ],
+        "Category": "",
+        "Description": "Breeze Dark but moddified by Atomix Linux Team",
+        "Id": "org.atomixlinux.atomix.desktop",
+        "License": "GPLv3+",
+        "Name": "Atomix",
+        "Website": "https://www.atomix-linux.github.io"
+    }
+}
