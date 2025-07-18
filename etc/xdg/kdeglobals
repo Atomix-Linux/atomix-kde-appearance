@@ -1,0 +1,6 @@
+[KDE]
+LookAndFeelPackage=org.atomixlinux.atomix.desktop
+
+[General]
+AccentColor=232,203,45
+LastUsedCustomAccentColor=232,203,45
